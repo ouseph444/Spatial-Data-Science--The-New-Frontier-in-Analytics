@@ -1,0 +1,9 @@
+class_code,landuse_class
+1,Water
+2,Built-up
+3,Cropland
+4,Grassland
+5,Forest
+6,Shrubland
+7,Bare rock / sparse
+8,Wetland

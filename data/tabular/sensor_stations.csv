@@ -1,0 +1,25 @@
+station_id,name,station_type,install_year,elevation_m,x_utm,y_utm,lon,lat
+ST001,Old Vallmara Monitoring Station,combined,2010,169.2,423367.26,4620369.15,14.07855,41.731439
+ST002,Harbourgate Monitoring Station,air_quality,2018,734.4,445057.95,4625043.39,14.338912,41.775333
+ST003,Kestrel Quay Monitoring Station,rain_gauge,2015,51.9,415684.38,4613481.33,13.987156,41.668632
+ST004,Marnvik Monitoring Station,combined,2006,307.1,433269.89,4613354.64,14.198394,41.669158
+ST005,Sundholm Monitoring Station,air_quality,2009,668.1,447013.25,4633379.48,14.361692,41.850544
+ST006,Ardenfeld Monitoring Station,rain_gauge,1997,672.6,446883.81,4602320.46,14.362901,41.570801
+ST007,Cliffmoor Monitoring Station,air_quality,1995,824.9,438157.77,4631795.51,14.255188,41.835637
+ST008,Brannock Monitoring Station,combined,2008,549.4,442494.71,4607126.16,14.309799,41.61378
+ST009,Tarnwell Monitoring Station,combined,2010,599.3,437404.17,4620074.35,14.247348,41.730014
+ST010,Eldrige Park Monitoring Station,combined,2001,556.5,431433.73,4633058.12,14.174067,41.846454
+ST011,Norrbank Monitoring Station,air_quality,2014,144.6,423525.95,4608458.01,14.081983,41.624183
+ST012,Vestmark Monitoring Station,rain_gauge,1999,305.6,430697.17,4619750.23,14.166749,41.726538
+ST013,Grenholt Monitoring Station,combined,2013,343.1,434422.07,4606076.11,14.213032,41.603701
+ST014,Ashcombe Monitoring Station,air_quality,2014,360.1,438348.26,4609301.06,14.259812,41.633059
+ST015,Lyndover Monitoring Station,air_quality,1997,154.5,420822.75,4626526.24,14.047138,41.78664
+ST016,Pellmyra Monitoring Station,rain_gauge,2012,505.4,434075.41,4601205.57,14.209407,41.559806
+ST017,Drakestad Monitoring Station,combined,2010,70.4,411154.87,4632634.12,13.929893,41.84062
+ST018,Highfen Monitoring Station,rain_gauge,2016,0.4,411831.55,4621603.23,13.93968,41.741357
+ST019,Corran Vale Monitoring Station,air_quality,2006,535.8,433452.0,4627764.54,14.198971,41.798952
+ST020,Stonebeck Monitoring Station,rain_gauge,2004,80.9,415478.26,4635068.87,13.98161,41.863019
+ST021,Willowmere Monitoring Station,combined,1996,84.3,420211.51,4616569.92,14.041118,41.696914
+ST022,Fyrdal Monitoring Station,air_quality,2008,23.5,414344.59,4606870.48,13.972011,41.608953
+ST023,Ostrand Monitoring Station,combined,1998,290.1,427789.95,4625624.43,14.131085,41.779183
+ST024,Halvorn Monitoring Station,combined,2020,14.6,416729.52,4602602.09,14.001222,41.570764
