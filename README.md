@@ -7,6 +7,21 @@ entirely fictional coastal region. Nothing is downloaded; the whole 16 MB
 dataset is generated on your machine from a fixed random seed, so every number
 in the course is reproducible.
 
+----------------------
+
+## 🗺️ Professional GIS Projects
+
+<p align="center">
+  <img src="./1.png" alt="Professional GIS Project 1" width="48%">
+  <img src="./2.png" alt="Professional GIS Project 2" width="48%">
+</p>
+
+<p align="center">
+  <strong>Professional GIS Project 1</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Professional GIS Project 2</strong>
+</p>
+
 ---
 
 ## What is in this folder
