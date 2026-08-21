@@ -14,7 +14,7 @@ in the course is reproducible.
 | File | What it is |
 |---|---|
 | `Spatial_Data_Science_Course.ipynb` | **The course.** 189 cells (127 markdown, 62 code) — lessons, exercises, solutions and the capstone |
-| `Modules/` | Individual module folders that break down Spatial_Data_Science_Course.ipynb. Each module will be updated as it is completed. |
+| `Modules/` | Individual module folders that break down Spatial_Data_Science_Course.ipynb. Each module will be updated as it is completed**Python execution results of-`Spatial_Data_Science_Course.ipynb` **. |
 | `Spatial_Data_Science_Course.pdf` | The same course as a Jupyter-styled printable study guide (201 pages, A4) |
 | `generate_data.py` | Builds the entire fictional dataset (~15 s, ~16 MB) |
 | `requirements.txt` | pip dependencies |
